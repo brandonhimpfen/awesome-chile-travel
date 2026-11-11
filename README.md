@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Chile, covering official portals, transport, region guides, national parks, and remote work resources.
 
+Chile is a dramatic South American destination stretching along a narrow strip between the towering Andes mountains and the Pacific Ocean, encompassing the hyper-arid Atacama Desert and Patagonian fjords. This list is intended for alpine hikers, stargazing enthusiasts, outdoor adventurers, and nature conservationists.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
